@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Volvo_V40_(2012%E2%80%932019)"
+
+generations:
+  - name: "Second Generation (P1+)"
+    start_year: 2012
+    end_year: 2019
+    description: "The V40 hatchback, on Volvo's P1 platform shared with the Ford Focus, with five-cylinder and Drive-E four-cylinder gasoline and diesel engines."
