@@ -49,6 +49,9 @@ supported_commands_by_ecu:
   - 0111:TP
   - 011F:RUNTM
   - 0130:WARM_UPS
+  - 0131:CLR_DIST
+  - 0142:VPWR
+  - 0146:AAT
 unsupported_commands_by_ecu:
   "D016":
   - D016.22EE6F

@@ -1,0 +1,5 @@
+command_id: '726.224090'
+test_cases:
+- expected_values:
+    V40_BAT_CHG_AMPS: -3.2
+  response: 72E056240901FC8

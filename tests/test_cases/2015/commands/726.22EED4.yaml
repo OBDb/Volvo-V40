@@ -1,0 +1,5 @@
+command_id: 726.22EED4
+test_cases:
+- expected_values:
+    V40_SECONDARY_BAT_V_LATEST: 0
+  response: 72E0562EED400F0

@@ -1,0 +1,11 @@
+command_id: 726.22DD04
+test_cases:
+- expected_values:
+    V40_CAR_T: 25
+  response: 7280462DD0441
+- expected_values:
+    V40_CAR_T: 26
+  response: 7280462DD0442
+- expected_values:
+    V40_CAR_T: 26
+  response: 72E0462DD0442
