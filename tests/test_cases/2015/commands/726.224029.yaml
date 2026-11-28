@@ -1,0 +1,8 @@
+command_id: '726.224029'
+test_cases:
+- expected_values:
+    V40_BAT_T: 27
+  response: '72E0462402943'
+- expected_values:
+    V40_BAT_T: 35
+  response: 72E046240294B

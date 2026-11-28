@@ -1,0 +1,5 @@
+command_id: 720.22EE12
+test_cases:
+- expected_values:
+    V40_FLI_DAMPED: 48.6
+  response: 7280562EE1200F3

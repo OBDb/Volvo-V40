@@ -1,0 +1,5 @@
+command_id: '726.224117'
+test_cases:
+- expected_values:
+    V40_FLI_SENS: 1.59832
+  response: '72E056241170147'

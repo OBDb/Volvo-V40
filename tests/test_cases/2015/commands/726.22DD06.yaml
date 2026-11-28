@@ -1,0 +1,5 @@
+command_id: 726.22DD06
+test_cases:
+- expected_values:
+    V40_POWER_MODE: -94
+  response: 72E0462DD0662

@@ -1,0 +1,12 @@
+command_id: 720.22D937
+test_cases:
+- expected_values:
+    V40_TRIP_2: 6216.9
+  response: |-
+    728100A62D937010000
+    72821F2D90001000000
+- expected_values:
+    V40_TRIP_2: 6219.9
+  response: |-
+    728100A62D937010000
+    72821F2F70001000000

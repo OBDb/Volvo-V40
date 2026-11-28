@@ -1,0 +1,9 @@
+command_id: 720.2261CC
+test_cases:
+- expected_values:
+    V40_ODO_LAST_SERVICE_720: 90196
+    V40_TOT_ENG_RUNNING_TIME: 150
+    V40_TOT_MONTHS_LAST: 105564
+  response: |-
+    728100A6261CC016054
+    7282144BA0096000000

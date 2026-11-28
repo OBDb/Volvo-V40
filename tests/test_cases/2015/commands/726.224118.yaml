@@ -1,0 +1,5 @@
+command_id: '726.224118'
+test_cases:
+- expected_values:
+    V40_FLI_SENS_EJECTOR: 4.99047
+  response: 72E0562411803FD
