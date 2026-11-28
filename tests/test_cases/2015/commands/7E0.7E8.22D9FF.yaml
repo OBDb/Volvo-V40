@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22D9FF
+test_cases:
+- expected_values:
+    V40_FUEL_P_NOMINAL: 0
+  response: 7E80762D9FF00000000

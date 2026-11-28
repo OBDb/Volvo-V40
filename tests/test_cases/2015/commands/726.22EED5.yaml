@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     V40_SECONDARY_BAT_NEEDED: 33921
   response: 72E0562EED58481
+- expected_values:
+    V40_SECONDARY_BAT_NEEDED: 33924
+  response: 72E0562EED58484

@@ -5,3 +5,8 @@ test_cases:
     V40_HIGH_BEAM: 0
     V40_PARKING_LIGHTS: 0
   response: '72E06627151000000'
+- expected_values:
+    V40_DIPPED_BEAM: 0
+    V40_HIGH_BEAM: 4
+    V40_PARKING_LIGHTS: 12
+  response: 72E0662715100040C

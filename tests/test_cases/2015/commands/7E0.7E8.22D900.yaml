@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22D900
+test_cases:
+- expected_values:
+    V40_AC_P: 3322.8
+  response: 7E80762D90040E6495E

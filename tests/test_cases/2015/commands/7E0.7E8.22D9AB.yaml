@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22D9AB
+test_cases:
+- expected_values:
+    V40_TMAP_IAT: -273.14
+  response: 7E80762D9AB00000000

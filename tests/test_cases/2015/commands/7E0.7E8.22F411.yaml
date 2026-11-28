@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22F411
+test_cases:
+- expected_values:
+    V40_THROTTLE_ABS_POS: 16.07843
+  response: 7E80462F41129

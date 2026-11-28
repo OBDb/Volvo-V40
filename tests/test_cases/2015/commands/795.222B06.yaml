@@ -1,0 +1,5 @@
+command_id: 795.222B06
+test_cases:
+- expected_values:
+    V40_FL_WHL_SPD_795: 72
+  response: 76804622B0648

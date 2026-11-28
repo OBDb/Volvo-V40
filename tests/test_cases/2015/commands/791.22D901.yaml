@@ -1,0 +1,5 @@
+command_id: 791.22D901
+test_cases:
+- expected_values:
+    V40_CHG_MS_CAN: 176
+  response: 73F0462D901B1

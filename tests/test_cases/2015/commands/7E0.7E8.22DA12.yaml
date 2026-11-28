@@ -1,0 +1,9 @@
+command_id: 7E0.7E8.22DA12
+test_cases:
+- expected_values:
+    V40_STARTER_RELAY_1: 0
+  response: |-
+    7E8101762DA12000430
+    7E821FD000420090006
+    7E822C8EC00026F6700
+    7E82300001400000000
