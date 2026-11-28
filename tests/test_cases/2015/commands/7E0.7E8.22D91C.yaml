@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22D91C
+test_cases:
+- expected_values:
+    V40_M3_IAT_MAF: 17.402
+  response: 7E80762D91C43FA4374

@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     V40_POWER_MODE: -94
   response: 72E0462DD0662
+- expected_values:
+    V40_POWER_MODE: -89
+  response: 72E0462DD0667

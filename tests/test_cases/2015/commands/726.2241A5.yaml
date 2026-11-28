@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     V40_BAT_CHG_BALANCE_AH: 12800
   response: 72E056241A53200
+- expected_values:
+    V40_BAT_CHG_BALANCE_AH: 12874
+  response: 72E056241A5324A

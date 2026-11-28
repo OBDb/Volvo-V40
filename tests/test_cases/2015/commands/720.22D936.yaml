@@ -10,3 +10,8 @@ test_cases:
   response: |-
     728100A62D936010001
     7282182F00001000000
+- expected_values:
+    V40_TRIP_1: 3352.1
+  response: |-
+    728100A62D936010001
+    7282182F10001000000

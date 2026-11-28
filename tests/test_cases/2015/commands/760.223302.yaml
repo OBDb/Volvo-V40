@@ -1,0 +1,5 @@
+command_id: '760.223302'
+test_cases:
+- expected_values:
+    V40_STEER_ANG_ACT: 782.4
+  response: '768056233021E90'

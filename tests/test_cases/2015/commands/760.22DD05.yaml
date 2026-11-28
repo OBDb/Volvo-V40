@@ -1,0 +1,5 @@
+command_id: 760.22DD05
+test_cases:
+- expected_values:
+    V40_OUTDOOR_T_BCM: 31
+  response: 7680462DD0547

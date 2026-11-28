@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     V40_BAT_V_726: 12.75
   response: 72E0462402A87
+- expected_values:
+    V40_BAT_V_726: 14.3
+  response: 72E0462402AA6

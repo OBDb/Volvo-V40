@@ -4,8 +4,5 @@ test_cases:
     V40_ODO_TCM: 99902
   response: 7280662DD0101863E
 - expected_values:
-    V40_ODO_TCM: 99905
-  response: 7280662DD01018641
-- expected_values:
-    V40_ODO_TCM: 99902
-  response: 72E0662DD0101863E
+    V40_ODO_TCM: 99906
+  response: 79F0662DD01018642
